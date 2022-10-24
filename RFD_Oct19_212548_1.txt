@@ -1,0 +1,1418 @@
+{
+    "rfwID": 123456789,
+    "lastBatchID": 6,
+    "dataRequested": [
+        [
+            {
+                "cpu_utilization_average": "30",
+                "network_in_average": "154736025",
+                "network_out_average": "141246513",
+                "memory_utilization_average": "53.384127440826404",
+                "final_target": "40.09086078380631"
+            },
+            {
+                "cpu_utilization_average": "34",
+                "network_in_average": "174792850",
+                "network_out_average": "159009757",
+                "memory_utilization_average": "61.12577880035098",
+                "final_target": "45.720781851052166"
+            },
+            {
+                "cpu_utilization_average": "42",
+                "network_in_average": "204743846",
+                "network_out_average": "185942694",
+                "memory_utilization_average": "69.1768909582612",
+                "final_target": "53.03683925108924"
+            },
+            {
+                "cpu_utilization_average": "51",
+                "network_in_average": "234199468",
+                "network_out_average": "212512909",
+                "memory_utilization_average": "76.02140416334375",
+                "final_target": "60.59822107252937"
+            },
+            {
+                "cpu_utilization_average": "60",
+                "network_in_average": "257097723",
+                "network_out_average": "233057946",
+                "memory_utilization_average": "81.02757161149874",
+                "final_target": "67.32308314511735"
+            },
+            {
+                "cpu_utilization_average": "68",
+                "network_in_average": "274477209",
+                "network_out_average": "248537183",
+                "memory_utilization_average": "84.31153910143057",
+                "final_target": "72.72336053147059"
+            },
+            {
+                "cpu_utilization_average": "75",
+                "network_in_average": "292123112",
+                "network_out_average": "264518500",
+                "memory_utilization_average": "86.09275040076133",
+                "final_target": "76.61301269049184"
+            },
+            {
+                "cpu_utilization_average": "79",
+                "network_in_average": "315208689",
+                "network_out_average": "286235018",
+                "memory_utilization_average": "86.36501092660943",
+                "final_target": "78.86877343484848"
+            },
+            {
+                "cpu_utilization_average": "82",
+                "network_in_average": "343821800",
+                "network_out_average": "314347602",
+                "memory_utilization_average": "85.17784748621845",
+                "final_target": "79.54646695773664"
+            },
+            {
+                "cpu_utilization_average": "83",
+                "network_in_average": "372148445",
+                "network_out_average": "344032571",
+                "memory_utilization_average": "82.90407355570657",
+                "final_target": "78.98525904130284"
+            },
+            {
+                "cpu_utilization_average": "83",
+                "network_in_average": "391668828",
+                "network_out_average": "367672955",
+                "memory_utilization_average": "79.88105096848837",
+                "final_target": "77.50740405431067"
+            },
+            {
+                "cpu_utilization_average": "81",
+                "network_in_average": "396287436",
+                "network_out_average": "379218469",
+                "memory_utilization_average": "75.81705433963387",
+                "final_target": "74.9956409746461"
+            },
+            {
+                "cpu_utilization_average": "79",
+                "network_in_average": "385974184",
+                "network_out_average": "377298291",
+                "memory_utilization_average": "69.91011799616217",
+                "final_target": "70.97875317496963"
+            },
+            {
+                "cpu_utilization_average": "75",
+                "network_in_average": "366505162",
+                "network_out_average": "365238275",
+                "memory_utilization_average": "61.83403291326167",
+                "final_target": "65.29930654744561"
+            },
+            {
+                "cpu_utilization_average": "70",
+                "network_in_average": "345801833",
+                "network_out_average": "348493158",
+                "memory_utilization_average": "52.60912636697746",
+                "final_target": "58.69031595713099"
+            },
+            {
+                "cpu_utilization_average": "66",
+                "network_in_average": "329564023",
+                "network_out_average": "331519139",
+                "memory_utilization_average": "44.376990317232966",
+                "final_target": "52.614747242413394"
+            },
+            {
+                "cpu_utilization_average": "62",
+                "network_in_average": "318678531",
+                "network_out_average": "315811776",
+                "memory_utilization_average": "39.17952724567381",
+                "final_target": "48.45038205792828"
+            },
+            {
+                "cpu_utilization_average": "60",
+                "network_in_average": "309363122",
+                "network_out_average": "299794568",
+                "memory_utilization_average": "37.71940358457719",
+                "final_target": "46.678147285675415"
+            },
+            {
+                "cpu_utilization_average": "59",
+                "network_in_average": "295769604",
+                "network_out_average": "280452403",
+                "memory_utilization_average": "39.002755511348674",
+                "final_target": "46.6626078311786"
+            },
+            {
+                "cpu_utilization_average": "58",
+                "network_in_average": "273748811",
+                "network_out_average": "255788093",
+                "memory_utilization_average": "41.06700504216086",
+                "final_target": "47.12973804352884"
+            },
+            {
+                "cpu_utilization_average": "56",
+                "network_in_average": "243513251",
+                "network_out_average": "226420192",
+                "memory_utilization_average": "42.26965908676446",
+                "final_target": "46.97166726413084"
+            },
+            {
+                "cpu_utilization_average": "54",
+                "network_in_average": "209329596",
+                "network_out_average": "195128721",
+                "memory_utilization_average": "42.21805451064089",
+                "final_target": "45.79551984831105"
+            },
+            {
+                "cpu_utilization_average": "50",
+                "network_in_average": "176698094",
+                "network_out_average": "165031475",
+                "memory_utilization_average": "41.64069892435286",
+                "final_target": "43.83628654546337"
+            },
+            {
+                "cpu_utilization_average": "45",
+                "network_in_average": "149537456",
+                "network_out_average": "138291449",
+                "memory_utilization_average": "41.373602313636574",
+                "final_target": "41.41933302670177"
+            },
+            {
+                "cpu_utilization_average": "39",
+                "network_in_average": "129413236",
+                "network_out_average": "116326700",
+                "memory_utilization_average": "41.482760159005075",
+                "final_target": "38.605868013888504"
+            },
+            {
+                "cpu_utilization_average": "33",
+                "network_in_average": "116678760",
+                "network_out_average": "100759512",
+                "memory_utilization_average": "41.407086292732814",
+                "final_target": "35.43638129745669"
+            },
+            {
+                "cpu_utilization_average": "27",
+                "network_in_average": "111932298",
+                "network_out_average": "93808701",
+                "memory_utilization_average": "40.88794004605087",
+                "final_target": "32.45116379641479"
+            },
+            {
+                "cpu_utilization_average": "24",
+                "network_in_average": "116257741",
+                "network_out_average": "97495751",
+                "memory_utilization_average": "40.566425191954856",
+                "final_target": "30.753837014836854"
+            },
+            {
+                "cpu_utilization_average": "24",
+                "network_in_average": "129816409",
+                "network_out_average": "111932429",
+                "memory_utilization_average": "41.48574108286606",
+                "final_target": "31.32017097864221"
+            },
+            {
+                "cpu_utilization_average": "27",
+                "network_in_average": "149971586",
+                "network_out_average": "133836482",
+                "memory_utilization_average": "43.92418507773224",
+                "final_target": "34.0851003140294"
+            },
+            {
+                "cpu_utilization_average": "32",
+                "network_in_average": "171169178",
+                "network_out_average": "156935949",
+                "memory_utilization_average": "46.74661516116229",
+                "final_target": "37.6889089064389"
+            },
+            {
+                "cpu_utilization_average": "36",
+                "network_in_average": "187792689",
+                "network_out_average": "175042801",
+                "memory_utilization_average": "48.06226904973724",
+                "final_target": "40.27885357108998"
+            },
+            {
+                "cpu_utilization_average": "39",
+                "network_in_average": "198385266",
+                "network_out_average": "186240355",
+                "memory_utilization_average": "46.774381799188646",
+                "final_target": "40.85548344389033"
+            },
+            {
+                "cpu_utilization_average": "40",
+                "network_in_average": "207553883",
+                "network_out_average": "194802316",
+                "memory_utilization_average": "43.6830620898399",
+                "final_target": "40.08644459865597"
+            },
+            {
+                "cpu_utilization_average": "42",
+                "network_in_average": "223102192",
+                "network_out_average": "208509976",
+                "memory_utilization_average": "41.10479255292075",
+                "final_target": "39.853258734086644"
+            },
+            {
+                "cpu_utilization_average": "46",
+                "network_in_average": "250148074",
+                "network_out_average": "232933357",
+                "memory_utilization_average": "41.329323751258244",
+                "final_target": "41.87914474172145"
+            },
+            {
+                "cpu_utilization_average": "52",
+                "network_in_average": "287333721",
+                "network_out_average": "267503002",
+                "memory_utilization_average": "45.26342306509094",
+                "final_target": "46.606691113268404"
+            },
+            {
+                "cpu_utilization_average": "59",
+                "network_in_average": "328662274",
+                "network_out_average": "306847046",
+                "memory_utilization_average": "52.21282729784121",
+                "final_target": "53.16682420765027"
+            },
+            {
+                "cpu_utilization_average": "66",
+                "network_in_average": "368850327",
+                "network_out_average": "345608775",
+                "memory_utilization_average": "60.53451390333853",
+                "final_target": "60.17087756746154"
+            },
+            {
+                "cpu_utilization_average": "71",
+                "network_in_average": "406443073",
+                "network_out_average": "381522830",
+                "memory_utilization_average": "68.31826750284523",
+                "final_target": "66.4105672060722"
+            },
+            {
+                "cpu_utilization_average": "75",
+                "network_in_average": "441623821",
+                "network_out_average": "413902352",
+                "memory_utilization_average": "73.71227574715347",
+                "final_target": "70.94518766802884"
+            },
+            {
+                "cpu_utilization_average": "78",
+                "network_in_average": "471620580",
+                "network_out_average": "439959518",
+                "memory_utilization_average": "75.11711013272385",
+                "final_target": "72.84934885651816"
+            },
+            {
+                "cpu_utilization_average": "78",
+                "network_in_average": "489158134",
+                "network_out_average": "453543402",
+                "memory_utilization_average": "71.54465591410586",
+                "final_target": "71.20622985534096"
+            },
+            {
+                "cpu_utilization_average": "74",
+                "network_in_average": "486104653",
+                "network_out_average": "448076144",
+                "memory_utilization_average": "63.10694645699324",
+                "final_target": "65.56861213786692"
+            },
+            {
+                "cpu_utilization_average": "67",
+                "network_in_average": "459266348",
+                "network_out_average": "421245782",
+                "memory_utilization_average": "51.2747067615033",
+                "final_target": "56.52381386219138"
+            },
+            {
+                "cpu_utilization_average": "57",
+                "network_in_average": "413444753",
+                "network_out_average": "377562416",
+                "memory_utilization_average": "38.52591465827464",
+                "final_target": "45.77465433343474"
+            },
+            {
+                "cpu_utilization_average": "47",
+                "network_in_average": "359595458",
+                "network_out_average": "326962080",
+                "memory_utilization_average": "27.4104015466712",
+                "final_target": "35.52518440118201"
+            },
+            {
+                "cpu_utilization_average": "38",
+                "network_in_average": "309972035",
+                "network_out_average": "280760772",
+                "memory_utilization_average": "19.59320192756809",
+                "final_target": "27.578252245767054"
+            },
+            {
+                "cpu_utilization_average": "32",
+                "network_in_average": "273659741",
+                "network_out_average": "247593629",
+                "memory_utilization_average": "15.512349702686999",
+                "final_target": "22.774671402184833"
+            },
+            {
+                "cpu_utilization_average": "29",
+                "network_in_average": "254265428",
+                "network_out_average": "230949014",
+                "memory_utilization_average": "14.730440041315966",
+                "final_target": "21.02412826567145"
+            },
+            {
+                "cpu_utilization_average": "29",
+                "network_in_average": "249381925",
+                "network_out_average": "228346866",
+                "memory_utilization_average": "16.462715919508145",
+                "final_target": "21.654557394843973"
+            },
+            {
+                "cpu_utilization_average": "30",
+                "network_in_average": "251267415",
+                "network_out_average": "231988518",
+                "memory_utilization_average": "19.783571153272433",
+                "final_target": "23.695810357981866"
+            },
+            {
+                "cpu_utilization_average": "31",
+                "network_in_average": "249320157",
+                "network_out_average": "231403244",
+                "memory_utilization_average": "23.567712787181637",
+                "final_target": "26.0308545258138"
+            },
+            {
+                "cpu_utilization_average": "31",
+                "network_in_average": "234727078",
+                "network_out_average": "218167620",
+                "memory_utilization_average": "26.605643897416847",
+                "final_target": "27.61770209941778"
+            },
+            {
+                "cpu_utilization_average": "30",
+                "network_in_average": "205439089",
+                "network_out_average": "190703996",
+                "memory_utilization_average": "28.079221282263617",
+                "final_target": "27.86291396513986"
+            },
+            {
+                "cpu_utilization_average": "28",
+                "network_in_average": "168073656",
+                "network_out_average": "155898954",
+                "memory_utilization_average": "28.03524335894278",
+                "final_target": "26.915623473473932"
+            },
+            {
+                "cpu_utilization_average": "26",
+                "network_in_average": "134920289",
+                "network_out_average": "125952524",
+                "memory_utilization_average": "27.354911612976785",
+                "final_target": "25.588213798233852"
+            },
+            {
+                "cpu_utilization_average": "25",
+                "network_in_average": "117644902",
+                "network_out_average": "112146427",
+                "memory_utilization_average": "27.151478858119944",
+                "final_target": "24.88375145821351"
+            },
+            {
+                "cpu_utilization_average": "25",
+                "network_in_average": "121340463",
+                "network_out_average": "119079169",
+                "memory_utilization_average": "28.032324168751103",
+                "final_target": "25.411854901694134"
+            },
+            {
+                "cpu_utilization_average": "27",
+                "network_in_average": "142001641",
+                "network_out_average": "142295071",
+                "memory_utilization_average": "29.74601201931605",
+                "final_target": "27.04165736039367"
+            },
+            {
+                "cpu_utilization_average": "29",
+                "network_in_average": "168481449",
+                "network_out_average": "170312375",
+                "memory_utilization_average": "31.40941878699613",
+                "final_target": "28.98799223077036"
+            },
+            {
+                "cpu_utilization_average": "31",
+                "network_in_average": "187959648",
+                "network_out_average": "190116755",
+                "memory_utilization_average": "32.100516931852546",
+                "final_target": "30.2854414613138"
+            },
+            {
+                "cpu_utilization_average": "32",
+                "network_in_average": "192458724",
+                "network_out_average": "193678054",
+                "memory_utilization_average": "31.39495648755026",
+                "final_target": "30.375505278224704"
+            },
+            {
+                "cpu_utilization_average": "32",
+                "network_in_average": "183093590",
+                "network_out_average": "182175970",
+                "memory_utilization_average": "29.52197545162174",
+                "final_target": "29.42961254185972"
+            },
+            {
+                "cpu_utilization_average": "32",
+                "network_in_average": "169134862",
+                "network_out_average": "165069097",
+                "memory_utilization_average": "27.121102128070145",
+                "final_target": "28.175698322087065"
+            },
+            {
+                "cpu_utilization_average": "32",
+                "network_in_average": "161594231",
+                "network_out_average": "153775531",
+                "memory_utilization_average": "24.853392877785588",
+                "final_target": "27.349801306756564"
+            },
+            {
+                "cpu_utilization_average": "34",
+                "network_in_average": "165270072",
+                "network_out_average": "153802254",
+                "memory_utilization_average": "23.155885461480494",
+                "final_target": "27.192097422157858"
+            },
+            {
+                "cpu_utilization_average": "35",
+                "network_in_average": "175419370",
+                "network_out_average": "161256077",
+                "memory_utilization_average": "22.24893075861287",
+                "final_target": "27.38098925783006"
+            },
+            {
+                "cpu_utilization_average": "35",
+                "network_in_average": "182090401",
+                "network_out_average": "166714493",
+                "memory_utilization_average": "22.312797057846918",
+                "final_target": "27.456637661267614"
+            },
+            {
+                "cpu_utilization_average": "34",
+                "network_in_average": "178610087",
+                "network_out_average": "163271040",
+                "memory_utilization_average": "23.67526801202751",
+                "final_target": "27.40803833929739"
+            },
+            {
+                "cpu_utilization_average": "31",
+                "network_in_average": "167130797",
+                "network_out_average": "152102859",
+                "memory_utilization_average": "26.861769558623145",
+                "final_target": "27.973315968982302"
+            },
+            {
+                "cpu_utilization_average": "31",
+                "network_in_average": "157095169",
+                "network_out_average": "141502821",
+                "memory_utilization_average": "32.40339579923327",
+                "final_target": "30.39349538895977"
+            },
+            {
+                "cpu_utilization_average": "34",
+                "network_in_average": "158726489",
+                "network_out_average": "141050084",
+                "memory_utilization_average": "40.41594198935909",
+                "final_target": "35.710220935127325"
+            },
+            {
+                "cpu_utilization_average": "42",
+                "network_in_average": "177170249",
+                "network_out_average": "155985909",
+                "memory_utilization_average": "50.16128643963292",
+                "final_target": "43.99495005362915"
+            },
+            {
+                "cpu_utilization_average": "53",
+                "network_in_average": "211109862",
+                "network_out_average": "185513521",
+                "memory_utilization_average": "59.93504663964038",
+                "final_target": "53.982044767498024"
+            },
+            {
+                "cpu_utilization_average": "65",
+                "network_in_average": "255083064",
+                "network_out_average": "224729175",
+                "memory_utilization_average": "67.51564735437294",
+                "final_target": "63.38615993176559"
+            },
+            {
+                "cpu_utilization_average": "75",
+                "network_in_average": "302053818",
+                "network_out_average": "267239173",
+                "memory_utilization_average": "71.0643527872161",
+                "final_target": "69.79851236791245"
+            },
+            {
+                "cpu_utilization_average": "80",
+                "network_in_average": "344376369",
+                "network_out_average": "306449999",
+                "memory_utilization_average": "70.00053114764353",
+                "final_target": "71.70838929789424"
+            },
+            {
+                "cpu_utilization_average": "80",
+                "network_in_average": "374546564",
+                "network_out_average": "336243531",
+                "memory_utilization_average": "65.28643815565765",
+                "final_target": "69.11894875258152"
+            },
+            {
+                "cpu_utilization_average": "74",
+                "network_in_average": "387563372",
+                "network_out_average": "352529251",
+                "memory_utilization_average": "58.90389449151918",
+                "final_target": "63.469283457497866"
+            },
+            {
+                "cpu_utilization_average": "66",
+                "network_in_average": "383808966",
+                "network_out_average": "355167995",
+                "memory_utilization_average": "52.88342710315573",
+                "final_target": "56.95880795348057"
+            },
+            {
+                "cpu_utilization_average": "60",
+                "network_in_average": "369410807",
+                "network_out_average": "348200779",
+                "memory_utilization_average": "48.52875933166033",
+                "final_target": "51.63840634018099"
+            },
+            {
+                "cpu_utilization_average": "56",
+                "network_in_average": "353066897",
+                "network_out_average": "337684473",
+                "memory_utilization_average": "46.18788210578172",
+                "final_target": "48.66740923540038"
+            },
+            {
+                "cpu_utilization_average": "55",
+                "network_in_average": "341689388",
+                "network_out_average": "328799227",
+                "memory_utilization_average": "45.440135625353335",
+                "final_target": "48.0116932202443"
+            },
+            {
+                "cpu_utilization_average": "56",
+                "network_in_average": "337764695",
+                "network_out_average": "324053253",
+                "memory_utilization_average": "45.4419839708993",
+                "final_target": "48.68085169683567"
+            },
+            {
+                "cpu_utilization_average": "58",
+                "network_in_average": "339179212",
+                "network_out_average": "322787454",
+                "memory_utilization_average": "45.340492876323864",
+                "final_target": "49.377962500998365"
+            },
+            {
+                "cpu_utilization_average": "58",
+                "network_in_average": "340728442",
+                "network_out_average": "321552643",
+                "memory_utilization_average": "44.66740591518319",
+                "final_target": "49.19839478293534"
+            },
+            {
+                "cpu_utilization_average": "57",
+                "network_in_average": "336695288",
+                "network_out_average": "315631188",
+                "memory_utilization_average": "43.474483536408414",
+                "final_target": "47.970865715616284"
+            },
+            {
+                "cpu_utilization_average": "54",
+                "network_in_average": "323899998",
+                "network_out_average": "301791869",
+                "memory_utilization_average": "42.106380864843146",
+                "final_target": "46.13144157753679"
+            },
+            {
+                "cpu_utilization_average": "52",
+                "network_in_average": "303770363",
+                "network_out_average": "280831120",
+                "memory_utilization_average": "40.90403563597121",
+                "final_target": "44.39516693266022"
+            },
+            {
+                "cpu_utilization_average": "51",
+                "network_in_average": "281947539",
+                "network_out_average": "257869766",
+                "memory_utilization_average": "40.18083544518212",
+                "final_target": "43.50446034908257"
+            },
+            {
+                "cpu_utilization_average": "52",
+                "network_in_average": "265605120",
+                "network_out_average": "240040560",
+                "memory_utilization_average": "40.35471244097776",
+                "final_target": "44.03141887778427"
+            },
+            {
+                "cpu_utilization_average": "55",
+                "network_in_average": "260362653",
+                "network_out_average": "233322613",
+                "memory_utilization_average": "41.8279086338923",
+                "final_target": "46.103523077161206"
+            },
+            {
+                "cpu_utilization_average": "59",
+                "network_in_average": "268667367",
+                "network_out_average": "240619275",
+                "memory_utilization_average": "44.56814589567054",
+                "final_target": "49.19404599667365"
+            },
+            {
+                "cpu_utilization_average": "62",
+                "network_in_average": "290047399",
+                "network_out_average": "261734094",
+                "memory_utilization_average": "47.86088022615159",
+                "final_target": "52.29729298170512"
+            },
+            {
+                "cpu_utilization_average": "64",
+                "network_in_average": "322039510",
+                "network_out_average": "294174112",
+                "memory_utilization_average": "50.610831277131254",
+                "final_target": "54.48591580518951"
+            },
+            {
+                "cpu_utilization_average": "64",
+                "network_in_average": "360118846",
+                "network_out_average": "333150576",
+                "memory_utilization_average": "51.963964294064375",
+                "final_target": "55.37498973358977"
+            },
+            {
+                "cpu_utilization_average": "64",
+                "network_in_average": "396436337",
+                "network_out_average": "370541653",
+                "memory_utilization_average": "51.69745837847395",
+                "final_target": "55.073898711289885"
+            },
+            {
+                "cpu_utilization_average": "62",
+                "network_in_average": "419648734",
+                "network_out_average": "394932483",
+                "memory_utilization_average": "50.15817400496941",
+                "final_target": "53.797600208035874"
+            },
+            {
+                "cpu_utilization_average": "60",
+                "network_in_average": "418496726",
+                "network_out_average": "395187353",
+                "memory_utilization_average": "48.00975380246656",
+                "final_target": "51.6828489085792"
+            }
+        ],
+        [
+            {
+                "cpu_utilization_average": "57",
+                "network_in_average": "388388667",
+                "network_out_average": "366785919",
+                "memory_utilization_average": "46.078790576067604",
+                "final_target": "49.02967302781185"
+            },
+            {
+                "cpu_utilization_average": "52",
+                "network_in_average": "336201088",
+                "network_out_average": "316351032",
+                "memory_utilization_average": "45.26911982383715",
+                "final_target": "46.598370002440845"
+            },
+            {
+                "cpu_utilization_average": "49",
+                "network_in_average": "278668395",
+                "network_out_average": "260025014",
+                "memory_utilization_average": "46.329140745748354",
+                "final_target": "45.46262204549174"
+            },
+            {
+                "cpu_utilization_average": "48",
+                "network_in_average": "234538739",
+                "network_out_average": "215965291",
+                "memory_utilization_average": "49.40447842155681",
+                "final_target": "46.360915200582255"
+            },
+            {
+                "cpu_utilization_average": "49",
+                "network_in_average": "215422191",
+                "network_out_average": "195674236",
+                "memory_utilization_average": "53.61927434184777",
+                "final_target": "49.007137371205395"
+            },
+            {
+                "cpu_utilization_average": "52",
+                "network_in_average": "220772478",
+                "network_out_average": "199225341",
+                "memory_utilization_average": "57.14123622909773",
+                "final_target": "51.95220487224675"
+            },
+            {
+                "cpu_utilization_average": "54",
+                "network_in_average": "239297953",
+                "network_out_average": "216428900",
+                "memory_utilization_average": "58.018333565988264",
+                "final_target": "53.249033090094564"
+            },
+            {
+                "cpu_utilization_average": "53",
+                "network_in_average": "255513858",
+                "network_out_average": "232745894",
+                "memory_utilization_average": "55.4384164384162",
+                "final_target": "51.58840288549592"
+            },
+            {
+                "cpu_utilization_average": "48",
+                "network_in_average": "257921365",
+                "network_out_average": "236848221",
+                "memory_utilization_average": "50.44303384528257",
+                "final_target": "47.138673779452816"
+            },
+            {
+                "cpu_utilization_average": "41",
+                "network_in_average": "244500943",
+                "network_out_average": "225958059",
+                "memory_utilization_average": "45.3152163319228",
+                "final_target": "41.42766378984457"
+            },
+            {
+                "cpu_utilization_average": "34",
+                "network_in_average": "222251483",
+                "network_out_average": "205848722",
+                "memory_utilization_average": "41.9432494302593",
+                "final_target": "36.28788606864605"
+            },
+            {
+                "cpu_utilization_average": "28",
+                "network_in_average": "200983225",
+                "network_out_average": "185447495",
+                "memory_utilization_average": "40.44658433900836",
+                "final_target": "32.63979082026865"
+            },
+            {
+                "cpu_utilization_average": "23",
+                "network_in_average": "185939163",
+                "network_out_average": "170084635",
+                "memory_utilization_average": "39.20684542547868",
+                "final_target": "30.046813152514353"
+            },
+            {
+                "cpu_utilization_average": "21",
+                "network_in_average": "175171698",
+                "network_out_average": "158854655",
+                "memory_utilization_average": "36.28628268099624",
+                "final_target": "27.37096074181183"
+            },
+            {
+                "cpu_utilization_average": "19",
+                "network_in_average": "163569802",
+                "network_out_average": "147942065",
+                "memory_utilization_average": "31.108808068047182",
+                "final_target": "23.98100382613622"
+            },
+            {
+                "cpu_utilization_average": "17",
+                "network_in_average": "149185561",
+                "network_out_average": "136054050",
+                "memory_utilization_average": "25.115460672139072",
+                "final_target": "20.515846927808926"
+            },
+            {
+                "cpu_utilization_average": "18",
+                "network_in_average": "135564057",
+                "network_out_average": "126349759",
+                "memory_utilization_average": "20.90844820876193",
+                "final_target": "18.54411452581953"
+            },
+            {
+                "cpu_utilization_average": "20",
+                "network_in_average": "128417445",
+                "network_out_average": "123465111",
+                "memory_utilization_average": "20.518829437679592",
+                "final_target": "19.362253090428922"
+            },
+            {
+                "cpu_utilization_average": "24",
+                "network_in_average": "130828085",
+                "network_out_average": "129410918",
+                "memory_utilization_average": "24.072109437427944",
+                "final_target": "22.923226393844256"
+            },
+            {
+                "cpu_utilization_average": "28",
+                "network_in_average": "141632636",
+                "network_out_average": "142395553",
+                "memory_utilization_average": "29.79812610216336",
+                "final_target": "27.789804897915513"
+            },
+            {
+                "cpu_utilization_average": "32",
+                "network_in_average": "157180104",
+                "network_out_average": "158590927",
+                "memory_utilization_average": "35.251924032338664",
+                "final_target": "32.089433740703626"
+            },
+            {
+                "cpu_utilization_average": "34",
+                "network_in_average": "173394528",
+                "network_out_average": "174056421",
+                "memory_utilization_average": "38.67743440301585",
+                "final_target": "34.58585134578625"
+            },
+            {
+                "cpu_utilization_average": "34",
+                "network_in_average": "186257304",
+                "network_out_average": "185195696",
+                "memory_utilization_average": "39.51026462185347",
+                "final_target": "35.02556400477556"
+            },
+            {
+                "cpu_utilization_average": "32",
+                "network_in_average": "191660471",
+                "network_out_average": "188620361",
+                "memory_utilization_average": "37.98383153168941",
+                "final_target": "33.74098017168857"
+            },
+            {
+                "cpu_utilization_average": "30",
+                "network_in_average": "186416368",
+                "network_out_average": "181974639",
+                "memory_utilization_average": "34.61579829652574",
+                "final_target": "31.16458656316767"
+            },
+            {
+                "cpu_utilization_average": "28",
+                "network_in_average": "170695837",
+                "network_out_average": "165963593",
+                "memory_utilization_average": "30.152602714566978",
+                "final_target": "27.770444910049328"
+            },
+            {
+                "cpu_utilization_average": "25",
+                "network_in_average": "149975540",
+                "network_out_average": "145935500",
+                "memory_utilization_average": "25.727512086729828",
+                "final_target": "24.297865374133593"
+            },
+            {
+                "cpu_utilization_average": "23",
+                "network_in_average": "133689621",
+                "network_out_average": "130555060",
+                "memory_utilization_average": "22.653559616363754",
+                "final_target": "21.732432131106478"
+            },
+            {
+                "cpu_utilization_average": "21",
+                "network_in_average": "129920694",
+                "network_out_average": "126987076",
+                "memory_utilization_average": "21.790498231386767",
+                "final_target": "20.82735886319113"
+            },
+            {
+                "cpu_utilization_average": "22",
+                "network_in_average": "139673067",
+                "network_out_average": "135812733",
+                "memory_utilization_average": "23.031448036816915",
+                "final_target": "21.554962408592566"
+            },
+            {
+                "cpu_utilization_average": "23",
+                "network_in_average": "156005069",
+                "network_out_average": "150433235",
+                "memory_utilization_average": "25.39512831495143",
+                "final_target": "23.07405494895022"
+            },
+            {
+                "cpu_utilization_average": "23",
+                "network_in_average": "169496972",
+                "network_out_average": "162176919",
+                "memory_utilization_average": "27.651166873557262",
+                "final_target": "24.348017583280736"
+            },
+            {
+                "cpu_utilization_average": "23",
+                "network_in_average": "175561089",
+                "network_out_average": "166923360",
+                "memory_utilization_average": "29.02009682415843",
+                "final_target": "24.935520630194087"
+            },
+            {
+                "cpu_utilization_average": "23",
+                "network_in_average": "177367910",
+                "network_out_average": "167652025",
+                "memory_utilization_average": "29.5660185571711",
+                "final_target": "25.335756069071657"
+            },
+            {
+                "cpu_utilization_average": "25",
+                "network_in_average": "182414266",
+                "network_out_average": "171282643",
+                "memory_utilization_average": "30.16735334890892",
+                "final_target": "26.68025200197871"
+            },
+            {
+                "cpu_utilization_average": "31",
+                "network_in_average": "196296569",
+                "network_out_average": "183076673",
+                "memory_utilization_average": "32.09761786708939",
+                "final_target": "30.05037010231267"
+            },
+            {
+                "cpu_utilization_average": "39",
+                "network_in_average": "218759969",
+                "network_out_average": "203057912",
+                "memory_utilization_average": "36.330392686641424",
+                "final_target": "35.85986918283295"
+            },
+            {
+                "cpu_utilization_average": "48",
+                "network_in_average": "244286457",
+                "network_out_average": "226392908",
+                "memory_utilization_average": "42.87979709405373",
+                "final_target": "43.603567564457855"
+            },
+            {
+                "cpu_utilization_average": "58",
+                "network_in_average": "266016806",
+                "network_out_average": "246760571",
+                "memory_utilization_average": "50.63063520509019",
+                "final_target": "52.04608725822192"
+            },
+            {
+                "cpu_utilization_average": "67",
+                "network_in_average": "280138184",
+                "network_out_average": "260365962",
+                "memory_utilization_average": "57.85412070117271",
+                "final_target": "59.71140823591031"
+            },
+            {
+                "cpu_utilization_average": "74",
+                "network_in_average": "287755385",
+                "network_out_average": "267944301",
+                "memory_utilization_average": "63.061168121675344",
+                "final_target": "65.39537209487852"
+            },
+            {
+                "cpu_utilization_average": "78",
+                "network_in_average": "292616554",
+                "network_out_average": "272977228",
+                "memory_utilization_average": "65.59241310863644",
+                "final_target": "68.4573485110047"
+            },
+            {
+                "cpu_utilization_average": "79",
+                "network_in_average": "296372227",
+                "network_out_average": "277312876",
+                "memory_utilization_average": "65.6526074051138",
+                "final_target": "68.84523121527465"
+            },
+            {
+                "cpu_utilization_average": "77",
+                "network_in_average": "296063827",
+                "network_out_average": "278514190",
+                "memory_utilization_average": "63.97122518245664",
+                "final_target": "66.98736849014182"
+            },
+            {
+                "cpu_utilization_average": "72",
+                "network_in_average": "287098505",
+                "network_out_average": "272289737",
+                "memory_utilization_average": "61.41796878736377",
+                "final_target": "63.680737998240446"
+            },
+            {
+                "cpu_utilization_average": "67",
+                "network_in_average": "269294200",
+                "network_out_average": "258051745",
+                "memory_utilization_average": "58.729860948224974",
+                "final_target": "59.96346869555683"
+            },
+            {
+                "cpu_utilization_average": "63",
+                "network_in_average": "249847774",
+                "network_out_average": "241855801",
+                "memory_utilization_average": "56.35679111808695",
+                "final_target": "56.884446489631955"
+            },
+            {
+                "cpu_utilization_average": "61",
+                "network_in_average": "239903684",
+                "network_out_average": "233457331",
+                "memory_utilization_average": "54.44294709577106",
+                "final_target": "55.18984313982603"
+            },
+            {
+                "cpu_utilization_average": "63",
+                "network_in_average": "247676707",
+                "network_out_average": "240168259",
+                "memory_utilization_average": "52.96798196588615",
+                "final_target": "55.11230678726614"
+            },
+            {
+                "cpu_utilization_average": "66",
+                "network_in_average": "273947520",
+                "network_out_average": "262887873",
+                "memory_utilization_average": "51.95363730548002",
+                "final_target": "56.42895898741295"
+            },
+            {
+                "cpu_utilization_average": "72",
+                "network_in_average": "312748963",
+                "network_out_average": "296750500",
+                "memory_utilization_average": "51.52345454043627",
+                "final_target": "58.69389583493374"
+            },
+            {
+                "cpu_utilization_average": "77",
+                "network_in_average": "355154839",
+                "network_out_average": "334314584",
+                "memory_utilization_average": "51.69075920389597",
+                "final_target": "61.3483116915555"
+            },
+            {
+                "cpu_utilization_average": "81",
+                "network_in_average": "392379706",
+                "network_out_average": "367965699",
+                "memory_utilization_average": "52.0547416500758",
+                "final_target": "63.601659879203105"
+            },
+            {
+                "cpu_utilization_average": "83",
+                "network_in_average": "416682455",
+                "network_out_average": "390518842",
+                "memory_utilization_average": "51.80192176871636",
+                "final_target": "64.38500086697597"
+            },
+            {
+                "cpu_utilization_average": "81",
+                "network_in_average": "421516810",
+                "network_out_average": "395504981",
+                "memory_utilization_average": "50.18726232971322",
+                "final_target": "62.716536448062755"
+            },
+            {
+                "cpu_utilization_average": "75",
+                "network_in_average": "402950966",
+                "network_out_average": "378809219",
+                "memory_utilization_average": "47.14108361213964",
+                "final_target": "58.33834545667057"
+            },
+            {
+                "cpu_utilization_average": "66",
+                "network_in_average": "362515929",
+                "network_out_average": "341548510",
+                "memory_utilization_average": "43.44653436270414",
+                "final_target": "52.08640634644563"
+            },
+            {
+                "cpu_utilization_average": "55",
+                "network_in_average": "309307139",
+                "network_out_average": "292100784",
+                "memory_utilization_average": "40.35488125602761",
+                "final_target": "45.66028402454279"
+            },
+            {
+                "cpu_utilization_average": "47",
+                "network_in_average": "258618240",
+                "network_out_average": "244801885",
+                "memory_utilization_average": "39.02198932115535",
+                "final_target": "40.97544239639236"
+            },
+            {
+                "cpu_utilization_average": "42",
+                "network_in_average": "226635249",
+                "network_out_average": "214884875",
+                "memory_utilization_average": "40.14782904747052",
+                "final_target": "39.50600513554448"
+            },
+            {
+                "cpu_utilization_average": "44",
+                "network_in_average": "223977638",
+                "network_out_average": "212278543",
+                "memory_utilization_average": "43.842824270329274",
+                "final_target": "41.85810974773086"
+            },
+            {
+                "cpu_utilization_average": "50",
+                "network_in_average": "251750931",
+                "network_out_average": "237814240",
+                "memory_utilization_average": "49.58785555167225",
+                "final_target": "47.60310701136373"
+            },
+            {
+                "cpu_utilization_average": "60",
+                "network_in_average": "301523021",
+                "network_out_average": "283324003",
+                "memory_utilization_average": "56.292442853940216",
+                "final_target": "55.36196903942167"
+            },
+            {
+                "cpu_utilization_average": "70",
+                "network_in_average": "358337843",
+                "network_out_average": "334769098",
+                "memory_utilization_average": "62.547454676464326",
+                "final_target": "63.169220353965606"
+            },
+            {
+                "cpu_utilization_average": "78",
+                "network_in_average": "405818282",
+                "network_out_average": "377213725",
+                "memory_utilization_average": "67.05377209523859",
+                "final_target": "69.09586123549353"
+            },
+            {
+                "cpu_utilization_average": "82",
+                "network_in_average": "432675230",
+                "network_out_average": "400735150",
+                "memory_utilization_average": "69.04647941675869",
+                "final_target": "71.94840637285857"
+            },
+            {
+                "cpu_utilization_average": "82",
+                "network_in_average": "438117049",
+                "network_out_average": "405046645",
+                "memory_utilization_average": "68.49798297156389",
+                "final_target": "71.70452813558192"
+            },
+            {
+                "cpu_utilization_average": "79",
+                "network_in_average": "431843340",
+                "network_out_average": "399217455",
+                "memory_utilization_average": "65.99647644306337",
+                "final_target": "69.3831121719109"
+            },
+            {
+                "cpu_utilization_average": "77",
+                "network_in_average": "426830450",
+                "network_out_average": "395038210",
+                "memory_utilization_average": "62.37945734932588",
+                "final_target": "66.35984058603124"
+            },
+            {
+                "cpu_utilization_average": "75",
+                "network_in_average": "429405515",
+                "network_out_average": "398022553",
+                "memory_utilization_average": "58.3422177599222",
+                "final_target": "63.54734610333177"
+            },
+            {
+                "cpu_utilization_average": "74",
+                "network_in_average": "434575314",
+                "network_out_average": "403176967",
+                "memory_utilization_average": "54.25154902034071",
+                "final_target": "61.00712554226139"
+            },
+            {
+                "cpu_utilization_average": "72",
+                "network_in_average": "430466741",
+                "network_out_average": "399130434",
+                "memory_utilization_average": "50.248553142638585",
+                "final_target": "58.244848691115386"
+            },
+            {
+                "cpu_utilization_average": "68",
+                "network_in_average": "407715511",
+                "network_out_average": "376941768",
+                "memory_utilization_average": "46.48428090874518",
+                "final_target": "54.8709197297652"
+            },
+            {
+                "cpu_utilization_average": "64",
+                "network_in_average": "365935327",
+                "network_out_average": "336298960",
+                "memory_utilization_average": "43.203905193081404",
+                "final_target": "51.01210121406859"
+            },
+            {
+                "cpu_utilization_average": "58",
+                "network_in_average": "313259858",
+                "network_out_average": "285182408",
+                "memory_utilization_average": "40.59233406860116",
+                "final_target": "47.182102206795555"
+            },
+            {
+                "cpu_utilization_average": "53",
+                "network_in_average": "261364883",
+                "network_out_average": "235061027",
+                "memory_utilization_average": "38.66010001523303",
+                "final_target": "43.932375681787924"
+            },
+            {
+                "cpu_utilization_average": "50",
+                "network_in_average": "220593962",
+                "network_out_average": "196020997",
+                "memory_utilization_average": "37.45435583830969",
+                "final_target": "41.752657449816674"
+            },
+            {
+                "cpu_utilization_average": "49",
+                "network_in_average": "197180011",
+                "network_out_average": "173981117",
+                "memory_utilization_average": "37.36926030053341",
+                "final_target": "41.16694114412347"
+            },
+            {
+                "cpu_utilization_average": "50",
+                "network_in_average": "191983526",
+                "network_out_average": "169645468",
+                "memory_utilization_average": "38.99236774920694",
+                "final_target": "42.551310456423565"
+            },
+            {
+                "cpu_utilization_average": "53",
+                "network_in_average": "200587464",
+                "network_out_average": "178886709",
+                "memory_utilization_average": "42.40822720821337",
+                "final_target": "45.59842124573395"
+            },
+            {
+                "cpu_utilization_average": "56",
+                "network_in_average": "215501888",
+                "network_out_average": "194888067",
+                "memory_utilization_average": "46.66181557257398",
+                "final_target": "49.048217082229286"
+            },
+            {
+                "cpu_utilization_average": "57",
+                "network_in_average": "229844055",
+                "network_out_average": "211289044",
+                "memory_utilization_average": "50.060276566117935",
+                "final_target": "51.209916511579586"
+            },
+            {
+                "cpu_utilization_average": "56",
+                "network_in_average": "239914891",
+                "network_out_average": "224217892",
+                "memory_utilization_average": "51.11928210988937",
+                "final_target": "50.92768374814267"
+            },
+            {
+                "cpu_utilization_average": "51",
+                "network_in_average": "244891736",
+                "network_out_average": "232004480",
+                "memory_utilization_average": "49.33837006862836",
+                "final_target": "48.13289438671851"
+            },
+            {
+                "cpu_utilization_average": "46",
+                "network_in_average": "244867885",
+                "network_out_average": "233820007",
+                "memory_utilization_average": "45.266072684906504",
+                "final_target": "43.594088876503356"
+            },
+            {
+                "cpu_utilization_average": "40",
+                "network_in_average": "239940037",
+                "network_out_average": "229370844",
+                "memory_utilization_average": "39.974053014527556",
+                "final_target": "38.25605135607878"
+            },
+            {
+                "cpu_utilization_average": "34",
+                "network_in_average": "231252524",
+                "network_out_average": "220024584",
+                "memory_utilization_average": "34.41289266556811",
+                "final_target": "32.79377637095378"
+            },
+            {
+                "cpu_utilization_average": "29",
+                "network_in_average": "222259576",
+                "network_out_average": "209668495",
+                "memory_utilization_average": "29.103097414590135",
+                "final_target": "27.662379798244604"
+            },
+            {
+                "cpu_utilization_average": "24",
+                "network_in_average": "218018794",
+                "network_out_average": "203591826",
+                "memory_utilization_average": "24.365967339763237",
+                "final_target": "23.45714487335956"
+            },
+            {
+                "cpu_utilization_average": "23",
+                "network_in_average": "222262623",
+                "network_out_average": "205527019",
+                "memory_utilization_average": "20.837844201066712",
+                "final_target": "21.119894650322543"
+            },
+            {
+                "cpu_utilization_average": "25",
+                "network_in_average": "234297428",
+                "network_out_average": "214858644",
+                "memory_utilization_average": "19.63134916589665",
+                "final_target": "21.615087662079706"
+            },
+            {
+                "cpu_utilization_average": "31",
+                "network_in_average": "248493036",
+                "network_out_average": "226395392",
+                "memory_utilization_average": "21.7546409814301",
+                "final_target": "25.2052337298189"
+            },
+            {
+                "cpu_utilization_average": "37",
+                "network_in_average": "257390822",
+                "network_out_average": "233409884",
+                "memory_utilization_average": "27.206413446954407",
+                "final_target": "30.977780865563332"
+            },
+            {
+                "cpu_utilization_average": "43",
+                "network_in_average": "256393103",
+                "network_out_average": "231928735",
+                "memory_utilization_average": "34.620433057634884",
+                "final_target": "37.16943134566714"
+            },
+            {
+                "cpu_utilization_average": "46",
+                "network_in_average": "246553909",
+                "network_out_average": "223119942",
+                "memory_utilization_average": "41.833794553033584",
+                "final_target": "42.09208789155129"
+            },
+            {
+                "cpu_utilization_average": "47",
+                "network_in_average": "233764354",
+                "network_out_average": "212385570",
+                "memory_utilization_average": "46.88847629627394",
+                "final_target": "44.90179173645278"
+            },
+            {
+                "cpu_utilization_average": "47",
+                "network_in_average": "225460539",
+                "network_out_average": "206331237",
+                "memory_utilization_average": "48.74029050660415",
+                "final_target": "45.692922074633344"
+            },
+            {
+                "cpu_utilization_average": "47",
+                "network_in_average": "227000513",
+                "network_out_average": "209563467",
+                "memory_utilization_average": "47.43519187701682",
+                "final_target": "45.09376140837692"
+            },
+            {
+                "cpu_utilization_average": "48",
+                "network_in_average": "239309410",
+                "network_out_average": "222668396",
+                "memory_utilization_average": "43.97211426400551",
+                "final_target": "43.883498371761505"
+            },
+            {
+                "cpu_utilization_average": "50",
+                "network_in_average": "258855201",
+                "network_out_average": "242272020",
+                "memory_utilization_average": "40.03613069627813",
+                "final_target": "42.877505060885326"
+            }
+        ]
+    ],
+    "analysis": {
+        "network_in_average": {
+            "p10": 449096741.1,
+            "avg": 238609122.0530917,
+            "max": "99970558",
+            "min": "0"
+        }
+    }
+}
