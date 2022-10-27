@@ -81,7 +81,7 @@ def requestMessage():
 
 
 ClientMultiSocket = socket.socket()
-host = '0.0.0.0'
+host = '44.210.137.222'
 port = 2004
 print('*******************************')
 print("************Welcome************")

@@ -6,6 +6,7 @@ from datetime import datetime
 import os
 from _thread import *
 import dataToJSON
+import time
 
 # Defining the required functions:
 def dataManipulation(req):
@@ -56,28 +57,32 @@ def dataManipulation(req):
 #### 
 
 ServerSideSocket = socket.socket()
-host = '0.0.0.0'
+host = '127.0.0.1'
 port = 2004
 ThreadCount = 0
 
 ## Defining the required function
 def multi_threaded_client(connection):
     connection.send(str.encode('Server is working:'))
-    while True:
-        data = connection.recv(2048)
-        clientRequest = data.decode('utf-8')
-        print("Client Request:\n", clientRequest)
-        clientRequest = json.loads(clientRequest)
-        #print(clientRequest)
-        response = dataManipulation(clientRequest)
-        #print(response)
-        response = json.dumps(response)
-        #response = "This message is from Server, " + datetime.now().strftime("%c") + '\n' + response
-        # response = 'Server message: ' + data.decode('utf-8')
-        if not data:
-            break
-        connection.sendall(str.encode(response))
-    connection.close()
+    try:
+        while True:
+            data = connection.recv(2048)
+            clientRequest = data.decode('utf-8')
+            print("Client Request:\n", clientRequest)
+            clientRequest = json.loads(clientRequest)
+            #print(clientRequest)
+            response = dataManipulation(clientRequest)
+            #print(response)
+            response = json.dumps(response)
+            #response = "This message is from Server, " + datetime.now().strftime("%c") + '\n' + response
+            # response = 'Server message: ' + data.decode('utf-8')
+            if not data:
+                break
+            connection.sendall(str.encode(response))
+        connection.close()
+    except Exception:
+        import traceback
+        print(traceback.format_exc())
 ##
 
 ## Listening to the clients
